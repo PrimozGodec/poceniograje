@@ -1,0 +1,3 @@
+.portfolio-block:hover:before {
+  opacity: 0.5;
+}

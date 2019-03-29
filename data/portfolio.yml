@@ -1,0 +1,188 @@
+enable : true
+heading : Galerija
+headingSpan : 
+filterList :
+  - filterType : zunanje
+    filterTitle : Zunanje ograje
+    
+  - filterType : notranje
+    filterTitle : Notranje stopniščne ograje
+    
+  - filterType : steklo
+    filterTitle : Ograje s steklom
+
+  - filterType : francoske
+    filterTitle : Francoske ograje
+
+  - filterType : drsna-vrata
+    filterTitle : Dvoriščna drsna vrata
+
+portfolioItem :
+  - types : zunanje steklo
+    image : images/ograje/zunanja1.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja2.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja3.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja4.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja5.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja6.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja7.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja8.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja9.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja10.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja11.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja12.jpg
+    icon : tf-ion-android-search
+    
+  - types : zunanje
+    image : images/ograje/zunanja13.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja14.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja15.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja16.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja17.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja18.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja20.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja21.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja22.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja23.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja24.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje
+    image : images/ograje/zunanja25.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja26.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja27.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja28.jpg
+    icon : tf-ion-android-search
+
+  # notranje
+  - types : notranje
+    image : images/ograje/notranja6.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje
+    image : images/ograje/notranja8.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje
+    image : images/ograje/notranja3.jpg
+    icon : tf-ion-android-search
+    
+  - types : notranje
+    image : images/ograje/notranja1.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje
+    image : images/ograje/notranja2.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje
+    image : images/ograje/notranja4.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje
+    image : images/ograje/notranja5.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje steklo
+    image : images/ograje/notranja7.jpg
+    icon : tf-ion-android-search
+
+  # drsna
+  - types : drsna-vrata
+    image : images/ograje/drsna1.jpg
+    icon : tf-ion-android-search
+
+  - types : drsna-vrata
+    image : images/ograje/drsna2.jpg
+    icon : tf-ion-android-search
+
+  # francoske
+  - types : francoske
+    image : images/ograje/francoska1.jpg
+    icon : tf-ion-android-search
+
+  - types : francoske
+    image : images/ograje/francoska2.jpg
+    icon : tf-ion-android-search
+
+  - types : francoske
+    image : images/ograje/francoska3.jpg
+    icon : tf-ion-android-search
+
+  - types : francoske
+    image : images/ograje/francoska4.jpg
+    icon : tf-ion-android-search
+
+

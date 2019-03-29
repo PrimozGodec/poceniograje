@@ -1,0 +1,15 @@
+enable : true
+heading : Naše
+headingSpan : storitve
+aboutItem : 
+- icon : tf-ion-ios-barcode
+  title : Izdelava in montaža ograj
+  # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-ion-ios-color-wand  #tf-ion-cube  #tf-ion-asterisk
+  title : Varjenje
+  # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+- icon : tf-ion-hammer
+  title : Krivljenje cevi in profilov, poliranje
+  # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.

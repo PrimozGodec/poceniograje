@@ -1,0 +1,16 @@
+enable : true
+heading : Kontaktirajte
+headingSpan : nas
+title : 
+content : Pokličite nas ali nam pošljite sporočilo. 
+enable_maps : false
+mapLatitude : 
+mapLongitude: 
+contactDetails :
+    
+  - icon : tf-ion-ios-telephone-outline
+    info : "Telefon: 041 391 514"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: drago.godec@gmail.com"
+    

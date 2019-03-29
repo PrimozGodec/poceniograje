@@ -1,0 +1,70 @@
+baseURL = "http://example.org/"
+languageCode = "sl"
+title = "Inox Godec"
+publishDir = "docs"
+
+theme = "meghna-hugo"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Storitve"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Galerija"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Kontakt"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Domov"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Izdelava vseh vrst ograj."
+author = "Primož Godec"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/zunanja1.jpg"
+    #icon = ""
+    heading = "Inox Godec"
+    content= "    "
+    btn = true
+    btnText="Ograje po meri"
+    btnURL="#about"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = ""
+    content = ""
+    btnURL = "#contact-us"
+    bgImage = "images/cta/zunanja21.jpg"
+    btnText = "Kontaktirajte nas"
+
+    # counter
+    [params.counter]
+    enable = false
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/profile.php?id=100009433209809"
+
