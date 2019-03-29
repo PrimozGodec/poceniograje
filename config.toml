@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://primozgodec.github.io/poceniograje/"
 languageCode = "sl"
 title = "Inox Godec"
 publishDir = "docs"
