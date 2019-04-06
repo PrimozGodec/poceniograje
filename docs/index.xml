@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inox Godec</title>
-    <link>https://primozgodec.github.io/poceniograje/</link>
+    <link>http://poceniograje.si/</link>
     <description>Recent content on Inox Godec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl</language>
     
-	<atom:link href="https://primozgodec.github.io/poceniograje/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://poceniograje.si/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
