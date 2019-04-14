@@ -31,7 +31,7 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 description = "Izdelava vseh vrst ograj."
 author = "Primož Godec"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-138310825-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
