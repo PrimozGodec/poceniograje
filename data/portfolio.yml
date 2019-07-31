@@ -138,7 +138,17 @@ portfolioItem :
   - types : notranje
     image : images/ograje/notranja3.jpg
     icon : tf-ion-android-search
-    
+
+    # se dve zunanje, da se izide z velikostjo treh slik zgoraj
+  - types : zunanje steklo
+    image : images/ograje/zunanja29.jpg
+    icon : tf-ion-android-search
+
+  - types : zunanje steklo
+    image : images/ograje/zunanja30.jpg
+    icon : tf-ion-android-search
+
+  # naprej notranje
   - types : notranje
     image : images/ograje/notranja1.jpg
     icon : tf-ion-android-search
@@ -157,6 +167,14 @@ portfolioItem :
 
   - types : notranje steklo
     image : images/ograje/notranja7.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje steklo
+    image : images/ograje/notranja9.jpg
+    icon : tf-ion-android-search
+
+  - types : notranje steklo
+    image : images/ograje/notranja10.jpg
     icon : tf-ion-android-search
 
   # drsna
@@ -184,5 +202,3 @@ portfolioItem :
   - types : francoske
     image : images/ograje/francoska4.jpg
     icon : tf-ion-android-search
-
-
