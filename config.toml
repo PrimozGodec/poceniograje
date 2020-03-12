@@ -1,4 +1,4 @@
-baseURL = "http://poceniograje.si/"
+baseURL = "https://poceniograje.si/"
 languageCode = "sl"
 title = "Inox Godec"
 publishDir = "docs"
