@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://poceniograje.si/categories/</loc>
+    <loc>https://poceniograje.si/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://poceniograje.si/</loc>
+    <loc>https://poceniograje.si/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://poceniograje.si/tags/</loc>
+    <loc>https://poceniograje.si/tags/</loc>
     <priority>0</priority>
   </url>
   
